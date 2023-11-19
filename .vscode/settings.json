@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 4000,
+            "driver": "MySQL",
+            "name": "akshay",
+            "group": "akash",
+            "database": "goodreads.db",
+            "username": "akshay5588",
+            "password": ""
+        }
+    ]
+}
